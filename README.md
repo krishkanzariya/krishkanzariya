@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @krishkanzariya
 - 👀 I’m interested in Frontened & Backened Developer, AI/ML, Cloud Engineering
 - 🌱 I’m currently learning B.Tech
-- 💞️ I’m looking to collaborate on Frontened Projects 
 - 📫 How to reach me  Phone:- 9998657221 and E-mail:- krishkanzariya70@gmail.com
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I am Excited to explore everything.

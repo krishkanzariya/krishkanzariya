@@ -1,0 +1,118 @@
+{
+  "identity": {
+    "name": "Krish Kanzariya",
+    "title": "Engineering Student",
+    "epithets": ["Game Developer", "Math Enthusiast", "Physics Simulator", "Space Dreamer"],
+    "location": "Gujarat, India",
+    "bio": "I build things at the intersection of mathematics, physics, and interactive systems. From Rigidbody rockets to recursive algorithms — I'm drawn to the places where theory becomes something you can run, play, or observe.",
+    "photo": "profile.png",
+    "links": {
+      "github": "https://github.com/krishkanzariya",
+      "linkedin": "https://linkedin.com/in/krishkanzariya",
+      "leetcode": "https://leetcode.com/krishkanzariya",
+      "email": "mailto:krishkanzariya5@gmail.com"
+    }
+  },
+  "projects": [
+    {
+      "id": "rocket-booster",
+      "title": "Rocket Booster",
+      "subtitle": "3D Physics Game",
+      "year": "2024",
+      "tech": ["C#", "Unity", "WebGL", "Rigidbody Physics"],
+      "description": "A browser-playable 3D game where the player pilots a rocket using real Rigidbody physics — thrust vectors, rotational dynamics, custom particle systems, and Unity Canvas UI.",
+      "links": {
+        "play": "https://krishkanzariya.itch.io/rocket-booster",
+        "code": "https://github.com/krishkanzariya/Rocket_Booster_Game"
+      },
+      "color": "#f59e0b",
+      "icon": "🚀"
+    },
+    {
+      "id": "flappy-bird",
+      "title": "Flappy Bird Clone",
+      "subtitle": "2D Game",
+      "year": "2024",
+      "tech": ["C#", "Unity", "Collision Detection"],
+      "description": "A faithful Flappy Bird recreation built from scratch — frame-accurate collision detection, a stable game loop, and fine-tuned input mechanics for a balanced difficulty curve.",
+      "links": {
+        "code": "https://github.com/krishkanzariya/FLAPPY-BIRD"
+      },
+      "color": "#34d399",
+      "icon": "🐦"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "GATE 2026 — CSE",
+      "value": "AIR 1844",
+      "detail": "Raw Score 58.67 · Shift 2",
+      "year": "2026",
+      "icon": "🏛️",
+      "color": "#f59e0b"
+    },
+    {
+      "title": "JEE Main 2023",
+      "value": "95.60%ile",
+      "detail": "Maths 97.77%ile · Physics 97.48%ile",
+      "year": "2023",
+      "icon": "⚡",
+      "color": "#818cf8"
+    },
+    {
+      "title": "GUJCET",
+      "value": "97.21%ile",
+      "detail": "Gujarat Common Entrance Test",
+      "year": "2023",
+      "icon": "🎯",
+      "color": "#34d399"
+    },
+    {
+      "title": "LeetCode",
+      "value": "30+ Solved",
+      "detail": "Arrays · Recursion · Algorithms",
+      "year": "2024",
+      "icon": "🧩",
+      "color": "#f472b6"
+    }
+  ],
+  "badges": [
+    {
+      "title": "Unity Game Dev 3D",
+      "issuer": "Udemy",
+      "year": "2024",
+      "icon": "🎮",
+      "color": "#f59e0b"
+    },
+    {
+      "title": "AWS Builder Bootcamp",
+      "issuer": "Amazon Web Services",
+      "year": "2024",
+      "icon": "☁️",
+      "color": "#38bdf8"
+    },
+    {
+      "title": "DSC Bootcamp",
+      "issuer": "Developer Student Clubs",
+      "year": "2024",
+      "icon": "🐍",
+      "color": "#34d399"
+    }
+  ],
+  "skills": {
+    "Languages": ["C", "C++", "C#", "Java"],
+    "Concepts": ["Data Structures", "Algorithms", "OOP", "Recursion"],
+    "Tools": ["Unity Engine", "WebGL", "Git", "GitHub"],
+    "Mathematics": ["Linear Algebra", "Physics Simulation", "Calculus", "Analytical Reasoning"]
+  },
+  "interests": [
+    { "label": "Linear Algebra", "icon": "∑" },
+    { "label": "Space Science", "icon": "🪐" },
+    { "label": "Physics Simulation", "icon": "⚛" },
+    { "label": "Machine Learning", "icon": "🧠" },
+    { "label": "Technical Drawing", "icon": "✏️" },
+    { "label": "Compiler Design", "icon": "⚙️" },
+    { "label": "Operating Systems", "icon": "💾" },
+    { "label": "Computer Networks", "icon": "🌐" }
+  ]
+}

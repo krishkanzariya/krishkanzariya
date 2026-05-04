@@ -627,6 +627,21 @@ footer{
   .nav-links a{font-size:.52rem}
   .nav-links{gap:.8rem}
 }
+  #profile-img{
+  position:absolute;
+  inset:0;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  border-radius:50%;
+  z-index:2;
+}
+
+#hero-canvas{
+  position:absolute;
+  inset:0;
+  z-index:1;
+}
 </style>
 </head>
 <body>
@@ -667,6 +682,9 @@ footer{
     <div class="sculpture-glow"></div>
     <div class="sculpture-ring2"></div>
     <div class="sculpture-ring"></div>
+    <!-- profile -->
+     <img id="profile-img" src="profile.png" />
+
     <canvas id="hero-canvas" width="220" height="220"></canvas>
   </div>
 
